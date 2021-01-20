@@ -1374,6 +1374,13 @@ footer .copy-txt {
     color: #404040;
 }
 
+
+/* Height Override */
+.height100 {
+    height: 100% !important;
+}
+
+
 /**
  * 12.0 Media Queries
  * -----------------------------------------------------------------------------
